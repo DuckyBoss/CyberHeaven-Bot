@@ -5,7 +5,7 @@ from discord.ext.commands import check
 from base64 import b64decode, b64encode
 
 #Questions
-from questions.intro import general
+from questions.intro import Practice_Questions
 
 
 
